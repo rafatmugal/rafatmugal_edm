@@ -1,0 +1,8 @@
+Database Name: e_com
+
+Admin Login Details
+
+Username: rakeshalakh@gmail.com
+Password: 12345
+
+rafat
